@@ -2,7 +2,7 @@
 
 Openweb is a free web server software.
 
-### Supported panel operating systems and webservers
+### Supported distributions
 
 | Operating System | Version | Openweb support    |
 | ---------------- | ------- | ------------------ |
@@ -12,6 +12,9 @@ Openweb is a free web server software.
 |                  | 20.04   | ✅ |
 | Debian           | 8       | 🔴   |
 |                  | 9       | ✅ |
+|                  | 10      | ✅ |
+| Windows           | 7       | 🔴   |
+|                  | 8       | 🔴 |
 |                  | 10      | ✅ |
 
 ## Installation
