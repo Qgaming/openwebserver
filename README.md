@@ -19,11 +19,12 @@ Openweb is a free web server software.
 
 ## Installation
 
-use this command to get the install script
+use this command to get the install script for debian/ubuntu.
 
 ```bash
 bash <(curl -s http://openwebserver.gq/install-openweb.sh)
 ```
+click [here]openwebserver.gq/windows. for the windows version.
 
 ## How do i upload files?
 
