@@ -24,7 +24,7 @@ use this command to get the install script for debian/ubuntu.
 ```bash
 bash <(curl -s http://openwebserver.gq/install-openweb.sh)
 ```
-click [here]openwebserver.gq/windows. for the windows version.
+click [here](http://openwebserver.gq/windows) for the windows version.
 
 ## How do i upload files?
 
