@@ -2,6 +2,18 @@
 
 Openweb is a free web server software.
 
+### Supported panel operating systems and webservers
+
+| Operating System | Version | Openweb support    |
+| ---------------- | ------- | ------------------ |
+| Ubuntu           | 14.04   | 🔴      | 
+|                  | 16.04   | ✅   |
+|                  | 18.04   | ✅ |
+|                  | 20.04   | ✅ |
+| Debian           | 8       | 🔴   |
+|                  | 9       | ✅ |
+|                  | 10      | ✅ |
+
 ## Installation
 
 use this command to get the install script
