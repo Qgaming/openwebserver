@@ -2,7 +2,7 @@
 
 Openweb is a free web server software.
 
-### Supported distributions
+### Supported operating systems
 
 | Operating System | Version | Openweb support    |
 | ---------------- | ------- | ------------------ |
