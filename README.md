@@ -22,7 +22,7 @@ Openweb is a free web server software.
 use this command to get the install script for debian/ubuntu.
 
 ```bash
-bash <(curl -s http://openwebserver.gq/install-openweb.sh)
+bash <(curl -s http://openwebserver.gq/install.sh)
 ```
 click [here](http://openwebserver.gq/windows) for the windows version.
 
